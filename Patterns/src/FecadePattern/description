@@ -1,0 +1,3 @@
+Thiết kế Fecade:
+- Có thể được coi là trung gian giữa người dùng với các hệ thống con hoặc các lớp
+- Thay vì người dùng cần biết sự hoạt động bên trong của các hệ thống con thì chỉ cung cấp lớp trung gian để thực hiện yêu cầu

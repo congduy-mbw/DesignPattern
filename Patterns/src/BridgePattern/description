@@ -1,0 +1,8 @@
+Thiết kế bridge:
+- Được sử dụng để phân tách giữa trừu tượng và định nghĩa
+- Trong đó chia thành các thành phần:
+	+ Implementor: Giao diện xác định hành động và lớp triển khai hành động đó theo từng cách khác nhau
+	+ Abstraction: Lớp trừu tượng đại diện cho các vật thể. Trong đó có tham chiếu tới giao diện xác định hành. 
+	Và cũng trừu tượng hóa hành động của vật thể
+	+ Refined Abstraction: Là các vật thể cụ thể và kế thừa từ lớp trừu tượng. Từ đây triển khai các hành động trừu tượng
+	

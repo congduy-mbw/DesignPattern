@@ -1,0 +1,4 @@
+Thiết kế theo hướng adapter:
+ - Là nơi chuyển hóa từ một đối tượng, lớp này sang đối tượng, lớp kia sao cho hạn chế tối đa việc sửa code khi bổ sung thêm
+ thư viện thứ ba.
+ - Có thể được coi là trung gian để kết nối giữa hai thành phần

@@ -1,0 +1,6 @@
+Thiết kế composite:
+- Thường được sử dụng trong các hệ thống phân cấp
+- Được chia thành 3 thành phần:
+	+ component: là thành phần tập hợp các tính năng của lớp leaf, composite cung cấp
+	+ composite: là thành phần cha
+	+ leaf: là thành phần con
